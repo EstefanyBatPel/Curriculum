@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+h1, h3{
+    color: #3F4A85;
+}
+
+header{
+    background-color: #89ADCE;
+}
+
+aside{
+    background-color: #C4D6E7;
+}
